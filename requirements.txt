@@ -1,0 +1,7 @@
+openai
+pandas
+langgraph==0.0.45 
+langchain-community 
+tavily-python 
+langchain-openai
+translate
